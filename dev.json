@@ -1,0 +1,12 @@
+{
+  "environment": "dev",
+  "resource_name": "platform-data",
+  "owner": "data-platform",
+  "region": "us-west-2",
+  "versioning_enabled": true,
+  "noncurrent_version_expiration_days": 30,
+  "tags": {
+    "cost_center": "RND",
+    "criticality": "medium"
+  }
+}
